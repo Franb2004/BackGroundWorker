@@ -1,0 +1,12 @@
+C:\Users\PC1\source\repos\TP-BackGroundWorker\TP-BackGroundWorker\bin\Debug\TP-BackGroundWorker.exe.config
+C:\Users\PC1\source\repos\TP-BackGroundWorker\TP-BackGroundWorker\bin\Debug\TP-BackGroundWorker.exe
+C:\Users\PC1\source\repos\TP-BackGroundWorker\TP-BackGroundWorker\bin\Debug\TP-BackGroundWorker.pdb
+C:\Users\PC1\source\repos\TP-BackGroundWorker\TP-BackGroundWorker\bin\Debug\TP-BackGroundWorker.xml
+C:\Users\PC1\source\repos\TP-BackGroundWorker\TP-BackGroundWorker\obj\Debug\TP-BackGroundWorker.vbproj.AssemblyReference.cache
+C:\Users\PC1\source\repos\TP-BackGroundWorker\TP-BackGroundWorker\obj\Debug\TP_BackGroundWorker.Form1.resources
+C:\Users\PC1\source\repos\TP-BackGroundWorker\TP-BackGroundWorker\obj\Debug\TP_BackGroundWorker.Resources.resources
+C:\Users\PC1\source\repos\TP-BackGroundWorker\TP-BackGroundWorker\obj\Debug\TP-BackGroundWorker.vbproj.GenerateResource.cache
+C:\Users\PC1\source\repos\TP-BackGroundWorker\TP-BackGroundWorker\obj\Debug\TP-BackGroundWorker.vbproj.CoreCompileInputs.cache
+C:\Users\PC1\source\repos\TP-BackGroundWorker\TP-BackGroundWorker\obj\Debug\TP-BackGroundWorker.exe
+C:\Users\PC1\source\repos\TP-BackGroundWorker\TP-BackGroundWorker\obj\Debug\TP-BackGroundWorker.xml
+C:\Users\PC1\source\repos\TP-BackGroundWorker\TP-BackGroundWorker\obj\Debug\TP-BackGroundWorker.pdb
